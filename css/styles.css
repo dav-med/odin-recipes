@@ -21,3 +21,8 @@ h1 {
 .navigation li a {
     color: #df8e1d;
 }
+
+.recipe-photo {
+    max-width: 400px;
+    height: auto;
+}
