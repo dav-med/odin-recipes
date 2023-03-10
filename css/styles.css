@@ -2,3 +2,22 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+body {
+    background-color: #eff1f5;
+    color: #4c4f69;
+}
+
+h1 {
+    text-align: center;
+    background-color: #e64553;
+    color: #eff1f5;
+}
+
+.navigation li {
+    list-style-type: none;
+    font-size: 2em;
+}
+
+.navigation li a {
+    color: #df8e1d;
+}
